@@ -4,3 +4,5 @@ var obj = ()=>{
     console.log("aaa")
 }
 let aaa = "aaa"
+
+let bbb = "bbb"
